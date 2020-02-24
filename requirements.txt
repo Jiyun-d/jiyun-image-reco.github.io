@@ -1,0 +1,9 @@
+fastai==1.0.60
+pandas
+requests
+bs4
+selenium
+sys
+Image
+io
+annoy
